@@ -1,2 +1,2 @@
 # SET
-Serenity Token Smart Contract
+Serenity (SET) Token Smart Contract
